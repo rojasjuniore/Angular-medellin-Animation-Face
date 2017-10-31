@@ -1,5 +1,6 @@
-# AnimationFace
-
+# Angular medellin - Challenges AnimationFace
+[Challenges](https://github.com/angular-medellin/challenges/tree/master/challenges/2-animation-face)
+[Demo](https://rojasjuniore.github.io/Angular-medellin-Animation-Face/)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
 ## Development server
